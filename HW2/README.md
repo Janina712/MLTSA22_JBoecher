@@ -5,4 +5,4 @@ I completed the assignment by myself before consulting with my group to discuss 
 The goal of the assignment was to explore time series dynamics and the relationships between different time dependent datasets:
 First, we plotted the development of each stock over time and observed a positive trend for all but two. Next, we tested if the developments of individual stocks were related to each other. The correlation matrix, as well as the heat map illustrate that all stocks were positively correlated with each other, except for aac.us and ann.us. The latter exhibited a downward trend in the time series plots. Finally, we tested for non-stationarity in the data. It turned out that only one stock was approximately stationary over time. Plotting helped me practice interpreting time series data. 
 
-The first part of the assignment was design to introduce us to Kaggle and to prepare data to be plotted and interpretable. 
+The first part of the assignment was design to introduce us to Kaggle and to prepare data to be plotted and interpreted.
