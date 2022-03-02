@@ -1,7 +1,6 @@
 For this assignment, I worked together with Kristina Rainich and Kopo Oromeng. 
 
-I completed the assignment by myself before meeting with my group on Monday. My teammates pointed out some errors and we had a discussion.  
-Specifically, Kristina noticed that I forgot to split the data for the prediction into training and test sets. 
+I completed the assignment by myself before meeting with my group on Monday. My teammates pointed out some errors and we had a discussion. Specifically, Kristina noticed that I forgot to split the data for the prediction into training and test sets. 
 Kopo mentioned insights into the question about the threshold value that I included in my answer. 
 And probably other things...
 
